@@ -60,6 +60,8 @@
 ### **📁 증빙 자료:**
 [[1차_AI협업캡처1]-1.pdf](https://github.com/user-attachments/files/26487539/1._AI.1.-1.pdf)
 [[1차_AI협업캡처1]-2.pdf](https://github.com/user-attachments/files/26487537/1._AI.1.-2.pdf)
+[[1차과제_실행결과].pdf](https://github.com/user-attachments/files/26487680/1._.pdf)
+
 
 
 <br>
