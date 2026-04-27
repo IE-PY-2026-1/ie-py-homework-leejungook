@@ -13,7 +13,7 @@ stock_info = [stock_name, avg_price, qty, current_price]
 
 profit_rate = ((stock_info[3] - stock_info[1]) / stock_info[1]) * 100
 
-print("\n================================")
+print("\n=================================")
 print(f"[{stock_info[0]}] 진단 결과")
 print(f"현재 수익율: {profit_rate:.2f}%")
 
@@ -34,4 +34,4 @@ else:
   print("[등급: F] 강제 장기투자.. 하락폭이 크고 물타기할 현금도 부족합니다.")
   print("조언: 주식 어플을 지우고 본업에 집중하시는 것을 권장합니다.")
 
-print("=================================")
+print("==================================")
