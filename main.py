@@ -13,7 +13,7 @@ stock_info = [stock_name, avg_price, qty, current_price]
 
 profit_rate = ((stock_info[3] - stock_info[1]) / stock_info[1]) * 100
 
-print("\n================================")
+print("\n===============================")
 print(f"[{stock_info[0]}] 진단 결과")
 print(f"현재 수익율: {profit_rate:.2f}%")
 
