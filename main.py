@@ -16,7 +16,7 @@ def input_stock():
 
     profit_rate = calculate_profit(avg_price, current_price)
 
-    potfolio_info = [name, avg_price, qty, current_price, available_cash, add_amount, profit_rate]
+    portfolio_info = [name, avg_price, qty, current_price, available_cash, add_amount, profit_rate]
     print(f"[{name}] 종목 데이터가 리스트에 성공적으로 등록되었습니다!")
 
 def calculate_profit(avg, current):
